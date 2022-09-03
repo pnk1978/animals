@@ -1,0 +1,8 @@
+Dog
+Mouse
+Goldfish
+Cat
+Turtle
+Guinea pig
+Hamster
+Parrot
